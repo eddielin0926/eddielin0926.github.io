@@ -1,0 +1,10 @@
+{
+    "files.autoSave": "onFocusChange",
+    "files.exclude": {
+        "**/.vscode": true,
+        "**/build": true,
+        "**/node_modules": true,
+        "**/.docusaurus": true,
+        "**/.cache-loader": true
+    }
+}
