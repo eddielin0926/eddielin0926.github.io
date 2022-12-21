@@ -6,5 +6,10 @@
         "**/node_modules": true,
         "**/.docusaurus": true,
         "**/.cache-loader": true
-    }
+    },
+    "grammarly.files.include": [
+        "**/*.txt",
+        "**/*.md",
+        "**/*.mdx"
+    ]
 }
