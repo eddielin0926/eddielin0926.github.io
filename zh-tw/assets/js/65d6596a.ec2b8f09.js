@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkeddielin_0926_github_io=self.webpackChunkeddielin_0926_github_io||[]).push([[675],{7441:e=>{e.exports=JSON.parse('{"permalink":"/zh-tw/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

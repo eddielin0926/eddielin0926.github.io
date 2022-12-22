@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Eddie Lin Blog</title>
+        <link>https://eddielin0926.github.io/zh-tw/blog</link>
+        <description>Eddie Lin Blog</description>
+        <lastBuildDate>Fri, 23 Dec 2022 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>zh-tw</language>
+        <item>
+            <title><![CDATA[My Website]]></title>
+            <link>https://eddielin0926.github.io/zh-tw/blog/my-personal-website</link>
+            <guid>my-personal-website</guid>
+            <pubDate>Fri, 23 Dec 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[My first post on blog]]></description>
+            <content:encoded><![CDATA[<p><img loading="lazy" alt="Docusaurus Plushie" src="/zh-tw/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg" width="1500" height="500" class="img_ev3q"></p><p>I started my website with <a href="https://docusaurus.io/" target="_blank" rel="noopener noreferrer">Docusaurus</a> and <a href="https://pages.github.com/" target="_blank" rel="noopener noreferrer">GitHub Pages</a>. Building this website is pretty fun and I learned a lot of new things. I hope that I can keep updating content and make this website show on the Google search result.  </p><p>I wrote a note about how to build a website with Docusaurus and GitHub Pages. If anyone is interested, please take a look at <a href="/zh-tw/docs/docusaurus/start-with-github-pages">Start with GitHub Pages</a>, and my website source code is on <a href="https://github.com/eddielin0926/eddielin0926.github.io" target="_blank" rel="noopener noreferrer">GitHub</a></p>]]></content:encoded>
+            <category>Docusaurus</category>
+            <category>Github Pages</category>
+        </item>
+    </channel>
+</rss>

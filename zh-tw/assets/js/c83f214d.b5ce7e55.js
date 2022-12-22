@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkeddielin_0926_github_io=self.webpackChunkeddielin_0926_github_io||[]).push([[78],{1118:e=>{e.exports=JSON.parse('[{"label":"Docusaurus","permalink":"/zh-tw/blog/tags/docusaurus","count":1},{"label":"Github Pages","permalink":"/zh-tw/blog/tags/github-pages","count":1}]')}}]);

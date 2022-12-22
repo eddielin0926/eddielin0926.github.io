@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://eddielin0926.github.io/zh-tw/blog</id>
+    <title>Eddie Lin Blog</title>
+    <updated>2022-12-23T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://eddielin0926.github.io/zh-tw/blog"/>
+    <subtitle>Eddie Lin Blog</subtitle>
+    <icon>https://eddielin0926.github.io/zh-tw/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[My Website]]></title>
+        <id>my-personal-website</id>
+        <link href="https://eddielin0926.github.io/zh-tw/blog/my-personal-website"/>
+        <updated>2022-12-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[My first post on blog]]></summary>
+        <content type="html"><![CDATA[<p><img loading="lazy" alt="Docusaurus Plushie" src="/zh-tw/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg" width="1500" height="500" class="img_ev3q"></p><p>I started my website with <a href="https://docusaurus.io/" target="_blank" rel="noopener noreferrer">Docusaurus</a> and <a href="https://pages.github.com/" target="_blank" rel="noopener noreferrer">GitHub Pages</a>. Building this website is pretty fun and I learned a lot of new things. I hope that I can keep updating content and make this website show on the Google search result.  </p><p>I wrote a note about how to build a website with Docusaurus and GitHub Pages. If anyone is interested, please take a look at <a href="/zh-tw/docs/docusaurus/start-with-github-pages">Start with GitHub Pages</a>, and my website source code is on <a href="https://github.com/eddielin0926/eddielin0926.github.io" target="_blank" rel="noopener noreferrer">GitHub</a></p>]]></content>
+        <author>
+            <name>Eddie Lin</name>
+            <uri>https://github.com/eddielin0926</uri>
+        </author>
+        <category label="Docusaurus" term="Docusaurus"/>
+        <category label="Github Pages" term="Github Pages"/>
+    </entry>
+</feed>

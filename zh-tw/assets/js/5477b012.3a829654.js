@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkeddielin_0926_github_io=self.webpackChunkeddielin_0926_github_io||[]).push([[510],{6370:e=>{e.exports=JSON.parse('{"label":"Github Pages","permalink":"/zh-tw/blog/tags/github-pages","allTagsPath":"/zh-tw/blog/tags","count":1}')}}]);
