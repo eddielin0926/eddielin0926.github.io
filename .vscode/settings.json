@@ -11,5 +11,6 @@
         "**/*.txt",
         "**/*.md",
         "**/*.mdx"
-    ]
+    ],
+    "grammarly.config.documentDomain": "academic"
 }
