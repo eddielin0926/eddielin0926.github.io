@@ -13,8 +13,9 @@
             <link>https://eddielin.dev/blog/my-website</link>
             <guid>https://eddielin.dev/blog/my-website</guid>
             <pubDate>Fri, 15 Mar 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[This is my website. I built it with Docusaurus.]]></description>
-            <content:encoded><![CDATA[<p>This is my website. I built it with Docusaurus.</p>]]></content:encoded>
+            <description><![CDATA[I try to build my own website with Docusaurus. It's a static site generator for documentation websites. It's easy to use and has a lot of features.]]></description>
+            <content:encoded><![CDATA[<p>I try to build my own website with Docusaurus. It's a static site generator for documentation websites. It's easy to use and has a lot of features.</p>
+<p>In addition, I bought a domain name and set up a custom domain for my website. It is quite complicated to set up the domain name, but I finally made it.</p>]]></content:encoded>
         </item>
     </channel>
 </rss>
