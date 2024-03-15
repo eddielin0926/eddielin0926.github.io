@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://eddielin.dev/blog</id>
+    <title>Eddie Lin Blog</title>
+    <updated>2024-03-15T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://eddielin.dev/blog"/>
+    <subtitle>Eddie Lin Blog</subtitle>
+    <icon>https://eddielin.dev/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[My Website]]></title>
+        <id>https://eddielin.dev/blog/my-website</id>
+        <link href="https://eddielin.dev/blog/my-website"/>
+        <updated>2024-03-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This is my website. I built it with Docusaurus.]]></summary>
+        <content type="html"><![CDATA[<p>This is my website. I built it with Docusaurus.</p>]]></content>
+        <author>
+            <name>Eddie Lin</name>
+            <uri>https://github.com/eddielin0926</uri>
+        </author>
+    </entry>
+</feed>
