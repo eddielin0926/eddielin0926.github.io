@@ -64,7 +64,6 @@ const config: Config = {
       //   src: 'img/logo.svg',
       // },
       items: [
-        { to: '/resume', label: 'Resume', position: 'left' },
         {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
@@ -73,7 +72,7 @@ const config: Config = {
         },
         { to: '/blog', label: 'Blog', position: 'left' },
         {
-          href: 'https://github.com/eddielin/eddielin0926.github.io',
+          href: 'https://github.com/eddielin0926',
           position: 'right',
           className: 'header-github-link',
           'aria-label': 'GitHub repository',
