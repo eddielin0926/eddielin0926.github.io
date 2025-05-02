@@ -3,21 +3,55 @@
  * and scoped locally.
  */
 
-.heroBanner {
-  padding: 4rem 0;
-  text-align: center;
+.heroHeader {
+  height: calc(100vh - var(--ifm-navbar-height));
+}
+
+.center {
+  display: grid;
+  place-content: center;
+}
+
+.heroName {
+  color: var(--ifm-color-primary);
+}
+
+.person {
+  --transform-speed: 250ms;
   position: relative;
+  max-width: 25rem;
+}
+
+.personContainer {
+  display: grid;
+  align-items: end;
+  border-radius: 0 0 100vw 100vw;
   overflow: hidden;
+
+  transition: transform var(--transform-speed) ease-in-out;
 }
 
-@media screen and (max-width: 996px) {
-  .heroBanner {
-    padding: 2rem;
-  }
+.personContainer:hover {
+  transform: scale(1.1);
 }
 
-.buttons {
-  display: flex;
-  align-items: center;
-  justify-content: center;
+.personCircle {
+  position: absolute;
+  aspect-ratio: 1/1;
+  object-fit: cover;
+  width: 100%;
+  inset: auto 0 0;
+  border-radius: 50%;
+}
+
+.personImg {
+  position: relative;
+  z-index: 2;
+  left: 0.2rem;
+  bottom: -3rem;
+  transition: transform calc(var(--transform-speed) * 1.2) ease-in-out;
+}
+
+.personContainer:hover .personImg {
+  transform: translateY(-0.6rem);
 }
